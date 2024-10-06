@@ -1,3 +1,4 @@
 # This is my notebooks, where I studying PyTorch.
-From the full course video https://www.youtube.com/watch?v=V_xro1bcAuA
+From the full course video https://www.youtube.com/watch?v=V_xro1bcAuA.
+
 Also learning other machine learning libraries.
